@@ -7,7 +7,7 @@
 TEMPLATE = subdirs
 SUBDIRS += QtAnimatedTextEdit
 SUBDIRS += QtAnimation
-SUBDIRS += QtDialog
+#SUBDIRS += QtDialog
 SUBDIRS += QtGrayImage
 SUBDIRS += QtLanguage
 SUBDIRS += QtLoadRcc
